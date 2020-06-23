@@ -5,7 +5,7 @@ Problem Statement:
 Predict the price of Second-hand cars taking cars' attributes into consideration.
 
 Data Summary:
-The Target is "Price" column, which is dependant on regressors such as "Year"(Year of 1st purchase), "Transmission Type","Kilometres-Driven","Mileage", etc., 
+The Target is "Price" column, which is dependant on regressors such as "Year"(Year of 1st purchase), "Transmission Type","Kilometres-Driven","Mileage", etc.,
 
 As a part of Comparing Julia with Python, I have implemented Linear Regression in Python & replicated the same steps in Julia.I have considered Cars Dataset(split into Train & Test Data files), which I will include in this repo.
 
