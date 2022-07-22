@@ -1,6 +1,8 @@
 # julia_blog
 Linear Regression Implementation in Julia &amp; Python 
 
+Link: https://medium.com/@nagapavannookala/intro-to-julia-as-a-programming-language-an-analyst-pov-e33740af0de9
+
 Problem Statement:
 Predict the price of Second-hand cars taking cars' attributes into consideration.
 
